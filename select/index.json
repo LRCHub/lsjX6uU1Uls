@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "椿",
+  "base_artist": "TORAUMA",
+  "createdAt": "2026-02-10T05:35:19.222499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_椿_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "沈以誠",
+      "has_synced": true,
+      "path": "select/02_椿_沈以誠.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "沈以誠",
+      "has_synced": true,
+      "path": "select/03_椿_沈以誠.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "椿 - TSUBAKI",
+      "artist": "TORAUMA",
+      "has_synced": true,
+      "path": "select/04_椿_-_TSUBAKI_TORAUMA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/05_椿_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "TORAUMA",
+      "has_synced": true,
+      "path": "select/06_椿_TORAUMA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "椿",
+      "artist": "沈以诚",
+      "has_synced": true,
+      "path": "select/07_椿_沈以诚.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "椿",
+      "artist": "TORAUMA",
+      "has_synced": false,
+      "path": "select/pl_01_椿_TORAUMA.txt"
+    }
+  ]
+}
